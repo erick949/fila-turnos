@@ -1,0 +1,1 @@
+# fila. — Sistema de control de turnos`n`nAplicación web estática para gestionar turnos y mesas de atención. Incluye panel operativo, pantalla pública y anuncios de voz en español mediante la API SpeechSynthesis del navegador.`n`n## Uso`n`nAbre `index.html` en un navegador moderno. Los datos de demostración se guardan en el almacenamiento local del navegador.
